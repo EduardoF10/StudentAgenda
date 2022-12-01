@@ -24,7 +24,7 @@ The following **improvement** features are implemented:
 * [x] From “home” screen to “make task” screen
 * [x] From “make task” screen to either “add notification”, “add due date”, “add course” or “add description”
 * [x] From any screen to “home screen” (by pressing “done” or “discard”
-* Prototype created with [Figma](https://www.figma.com/proto/fgCclYA2CqF5VfGFj26OxL/Student-Agenda-App?page-id=0%3A1&node-id=101%3A589&viewport=1215%2C2525%2C0.49&scaling=scale-down&starting-point-node-id=101%3A245)
+* Prototype created with [Figma](https://www.figma.com/proto/fgCclYA2CqF5VfGFj26OxL/Student-Agenda-App?page-id=0%3A1&node-id=101%3A245&viewport=1215%2C2525%2C0.49&scaling=scale-down&starting-point-node-id=101%3A245)
 
 ## Video Walkthrough
 
